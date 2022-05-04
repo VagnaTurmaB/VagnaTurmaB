@@ -1,4 +1,7 @@
 ### Hi there 👋
+# Sou professora de Biologia, estou muito feliz em compartilhar esse novo aprendizado contigo!
+
+## Trabalho com 
 
 <!--
 **VagnaTurmaB/VagnaTurmaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
